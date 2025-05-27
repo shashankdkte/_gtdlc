@@ -182,7 +182,7 @@ The Gapteq DLC Management platform provides:
 4. 🏠 **Return** to the main dashboard using the home navigation -->
 
 
-### ✅ **Module 2 : Dashboard Navigation**
+### ✅ **Module 2 : Sidebar Navigation**
 ![Achievement Badge](images/navigation.png)
 
 **Best Practice:** 💡 The left sidebar navigation panel provides quick access to all platform sections and is your primary navigation tool.
@@ -925,12 +925,6 @@ Understanding these common functionalities and best practices will ensure optima
 
 ## 📚 Reference Documentation and Support
 
-Common Functionalities
-1. After andy function if any thing is responsive for more that 35 to 60 sec please refresh button if available on page not browser
-
-2 Sync functionality is basically a very important functionality which checks all the folder structure on disk and sync that with database
-
-3. While using side navigation please wait while moving in betwen tabs as sometime large amount of data is comming and being SPA it might show data in some time but not not proper tab is active so make sure to navigate to other other tab wait for data to load and then renavigate back so that there is no issue 
 
 ![Reference Arsenal](images/onboarding/reference-arsenal.png)
 
