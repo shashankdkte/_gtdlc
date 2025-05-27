@@ -182,7 +182,7 @@ The Gapteq DLC Management platform provides:
 4. 🏠 **Return** to the main dashboard using the home navigation -->
 
 
-### ✅ **Module 2 : Dashboard Navigation**
+### ✅ **Module 2 : Sidebar Navigation**
 ![Achievement Badge](images/navigation.png)
 
 **Best Practice:** 💡 The left sidebar navigation panel provides quick access to all platform sections and is your primary navigation tool.
