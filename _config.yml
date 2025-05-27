@@ -1,0 +1,15 @@
+title: Gapteq DLC Management Platform - User Onboarding Guide
+description: Complete user setup and training program for the DLC platform
+theme: minima
+
+# Enable custom CSS
+plugins:
+  - jekyll-feed
+
+# Custom settings
+markdown: kramdown
+highlighter: rouge
+
+# SEO and metadata
+author: Gapteq Team
+lang: en-US 

@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@import "{{ site.theme }}";
+
+/* Apply Inter font globally */
+body, html {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+}
+
+/* Headings with Inter */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  font-weight: 600;
+  letter-spacing: -0.025em;
+}
+
+/* Code blocks keep monospace */
+code, pre {
+  font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace !important;
+}
+
+/* Improve readability */
+body {
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+/* Better spacing for content */
+.markdown-body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Style improvements */
+.markdown-body h1 {
+  border-bottom: 2px solid #e1e4e8;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.markdown-body h2 {
+  border-bottom: 1px solid #e1e4e8;
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Better table styling */
+.markdown-body table {
+  font-size: 14px;
+}
+
+.markdown-body table th {
+  font-weight: 600;
+  background-color: #f6f8fa;
+} 

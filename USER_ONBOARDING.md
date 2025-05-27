@@ -1,3 +1,41 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+body, .markdown-body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 600;
+  letter-spacing: -0.025em;
+}
+
+code, pre {
+  font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, monospace !important;
+}
+
+.markdown-body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 1rem 0;
+}
+
+table th {
+  font-weight: 600;
+  background-color: #f6f8fa;
+}
+</style>
+
 # 📋 Gapteq DLC Management Platform Onboarding Guide
 ## Complete User Setup and Training Program
 
